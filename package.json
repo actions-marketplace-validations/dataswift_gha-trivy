@@ -27,7 +27,7 @@
     "@types/node-fetch": "^2.5.10",
     "@types/tar": "^4.0.4",
     "axios": "^0.21.1",
-    "node-fetch": "^2.6.1",
+    "node-fetch": "^3.3.0",
     "tar": "^6.1.0"
   },
   "devDependencies": {
